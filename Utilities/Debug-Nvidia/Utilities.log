@@ -1,0 +1,21 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  TGA.cpp
+  MemoryOperators.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\MemoryOperators.cpp(6,54): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\MemoryOperators.cpp(12,54): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  MemoryManager.cpp
+  U_Math.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\MemoryOperators.cpp(52,54): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\U_Math.cpp(7,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\U_Math.cpp(101,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+  esUtil_win.cpp
+  esUtil.cpp
+  esShader.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\U_Math.cpp(205,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\esShader.cpp(58,21): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\esShader.cpp(80,20): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  Generating Code...
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Utilities\src\esShader.cpp(137,20): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1445,5): warning MSB8012: TargetPath(F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\\BIN-Nvidia\Utilities.lib) does not match the Library's OutputFile property value (F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\BIN-Nvidia\UtilitiesD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1447,5): warning MSB8012: TargetName(Utilities) does not match the Library's OutputFile property value (UtilitiesD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Utilities.vcxproj -> F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\\BIN-Nvidia\Utilities.lib

@@ -1,0 +1,388 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  Application.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,37): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,38): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2275:  'Shaders': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2275:  'Texture': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,28): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2275:  'Models': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,27): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2275:  'Camera': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,27): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,50): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,62): error C2065:  'cam': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,50): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,61): error C2065:  'mod': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,52): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,64): error C2065:  'sha': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,52): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,65): error C2065:  'tex': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(30,22): error C2374:  'm_Shaders': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'm_Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(31,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(33,22): error C2374:  'm_texture': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(25): message :  see declaration of 'm_texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(34,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(25): message :  see declaration of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(36,21): error C2374:  'm_model': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'm_model'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(37,15): error C2039:  'Init': is not a member of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(39,58): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(39,36): error C2672:  'std::make_shared': no matching overloaded function found
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(48,13): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(48,25): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'Camera *' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1212,17): message :  could be 'std::shared_ptr<Camera> &std::shared_ptr<Camera>::operator =(std::shared_ptr<Camera> &&) noexcept'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\memory(1200,17): message :  or       'std::shared_ptr<Camera> &std::shared_ptr<Camera>::operator =(const std::shared_ptr<Camera> &) noexcept'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(48,25): message :  while trying to match the argument list '(std::shared_ptr<Camera>, Camera *)'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(53,12): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(54,15): error C2039:  'Init': is not a member of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(55,14): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(56,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(57,14): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(58,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(25): message :  see declaration of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(60,11): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(65,21): error C2374:  'm_model': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'm_model'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(66,15): error C2039:  'Init': is not a member of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(67,22): error C2374:  'm_Shaders': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'm_Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(68,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(70,58): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(70,36): error C2672:  'std::make_shared': no matching overloaded function found
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(76,21): error C2374:  'm_model': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'm_model'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(77,15): error C2039:  'Init': is not a member of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(26): message :  see declaration of 'std::shared_ptr<Models>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(78,22): error C2374:  'm_Shaders': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'm_Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(79,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(24): message :  see declaration of 'std::shared_ptr<Shaders>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(80,22): error C2374:  'm_texture': redefinition; multiple initialization
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(25): message :  see declaration of 'm_texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(81,17): error C2039:  'Init': is not a member of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(25): message :  see declaration of 'std::shared_ptr<Texture>'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(83,59): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(83,37): error C2672:  'std::make_shared': no matching overloaded function found
+  Generating Code...
+  Compiling...
+  Sprite2D.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\Application.cpp(85,50): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameManager\Singleton.h(11,17): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,37): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,38): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2275:  'Shaders': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2275:  'Texture': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,28): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2275:  'Models': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,27): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2275:  'Camera': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,27): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,50): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,62): error C2065:  'cam': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,50): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,61): error C2065:  'mod': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,52): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,64): error C2065:  'sha': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,52): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,65): error C2065:  'tex': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(23,2): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(24,2): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(25,2): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(26,2): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(37,2): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(38,2): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(39,2): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(40,2): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(60,15): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(61,32): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(61,59): error C2660:  'glBindBuffer': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(62,40): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(62,67): error C2660:  'glBindBuffer': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(69,6): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(73,32): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(73,61): error C2660:  'glBindTexture': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(480,37): message :  see declaration of 'glBindTexture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(74,7): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(75,16): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(80,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(87,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(95,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(103,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(108,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(114,31): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(114,81): error C2660:  'glDrawElements': function does not take 3 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(515,37): message :  see declaration of 'glDrawElements'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(143,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(144,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(154,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Sprite3D.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite2D.cpp(155,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameManager\Singleton.h(11,17): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,37): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,38): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2275:  'Shaders': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2275:  'Texture': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,28): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2275:  'Models': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,27): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2275:  'Camera': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,27): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,50): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,62): error C2065:  'cam': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,50): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,61): error C2065:  'mod': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,52): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,64): error C2065:  'sha': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,52): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,65): error C2065:  'tex': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(26,2): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(27,2): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(28,2): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(29,2): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(35,2): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(36,2): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(37,2): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(38,2): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(55,15): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(56,32): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(56,59): error C2660:  'glBindBuffer': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(57,40): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(57,67): error C2660:  'glBindBuffer': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(477,37): message :  see declaration of 'glBindBuffer'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(62,26): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(64,6): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(68,32): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(68,61): error C2660:  'glBindTexture': function does not take 1 arguments
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(480,37): message :  see declaration of 'glBindTexture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(69,7): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(70,16): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(75,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(82,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(90,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(98,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(103,27): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(108,31): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\Sprite3D.cpp(108,81): error C2660:  'glDrawElements': function does not take 3 arguments
+  Generating Code...
+  Compiling...
+  TrainingFramework.cpp
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\Include\AMD\GLES2\gl2.h(515,37): message :  see declaration of 'glDrawElements'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameManager\Singleton.h(11,17): warning C4566:  character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(24,37): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(25,38): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(26,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,7): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C2143:  syntax error: missing ';' before '<'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(27,36): error C2238:  unexpected token(s) preceding ';'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,24): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,34): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,25): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,35): error C2061:  syntax error: identifier 'shared_ptr'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,1): error C2275:  'Shaders': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(5): message :  see declaration of 'Shaders'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(38,28): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,1): error C2275:  'Texture': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(7): message :  see declaration of 'Texture'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(39,28): error C2065:  'm_pTexture': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,1): error C2275:  'Models': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(6): message :  see declaration of 'Models'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(40,27): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,8): error C2039:  'shared_ptr': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(19): message :  see declaration of 'std'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2065:  'shared_ptr': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,1): error C2275:  'Camera': illegal use of this type as an expression
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(8): message :  see declaration of 'Camera'
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(41,27): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,50): error C2065:  'm_pCamera': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(59,62): error C2065:  'cam': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,50): error C2065:  'm_pModel': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(61,61): error C2065:  'mod': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,52): error C2065:  'm_pShader': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(63,64): error C2065:  'sha': undeclared identifier
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,52): error C2065:  'm_pTexture': undeclared identifier
+  Generating Code...
+F:\Favourite\Tài liệu\MAKING GAME_Lesson 05\Programming\Programming\TrainingFramework\src\GameObject\baseobject.h(65,65): error C2065:  'tex': undeclared identifier
